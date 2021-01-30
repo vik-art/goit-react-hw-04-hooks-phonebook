@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-hooks-phonebook/static/css/main.840abe11.chunk.css",
+    "main.js": "/goit-react-hw-04-hooks-phonebook/static/js/main.542b55ad.chunk.js",
+    "main.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/main.542b55ad.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-hooks-phonebook/static/js/runtime-main.a38ecbdc.js",
+    "runtime-main.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/runtime-main.a38ecbdc.js.map",
+    "static/js/2.16144b14.chunk.js": "/goit-react-hw-04-hooks-phonebook/static/js/2.16144b14.chunk.js",
+    "static/js/2.16144b14.chunk.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/2.16144b14.chunk.js.map",
+    "index.html": "/goit-react-hw-04-hooks-phonebook/index.html",
+    "static/css/main.840abe11.chunk.css.map": "/goit-react-hw-04-hooks-phonebook/static/css/main.840abe11.chunk.css.map",
+    "static/js/2.16144b14.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-phonebook/static/js/2.16144b14.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/goit-react-hw-04-hooks-phonebook/static/media/pexels-anderson-guerra-1150961.a094702f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a38ecbdc.js",
+    "static/js/2.16144b14.chunk.js",
+    "static/css/main.840abe11.chunk.css",
+    "static/js/main.542b55ad.chunk.js"
+  ]
+}
